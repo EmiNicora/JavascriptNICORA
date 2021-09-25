@@ -73,7 +73,7 @@ let respuesta2 = "Always"
     console.log("no estas autorizado para entrar a la página")
     let mensajerecibido = alert('no estas autorizado para entrar a la página')
 }
-*/
+-*/
 if ((pregunta == "ALWAYS") || (pregunta == "always") )
 {
     alert( preguntaNombre + " " + 'Bienvenido al mundo mágico :)');
